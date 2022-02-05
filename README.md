@@ -38,8 +38,9 @@ https://testnets.opensea.io/assets/mumbai/0xf5e24a2ca20e0721198e82c49593dba380b1
 
 3. Experiment on Mumbai Testnet
     Deploy the smart contract on Mumbai Testnet.
-    And Run MintItem Function. (I didn't set the parameter)
+    And Run MintItem Function. (I didn't set the parameter).
     It will set default value, metadata contains the image url you provide to me.
+    
     ![image](https://user-images.githubusercontent.com/94480152/152651286-1e69e08b-15b9-460b-9b18-5b989977018a.png)
 
 
